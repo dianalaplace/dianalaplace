@@ -1,6 +1,6 @@
 # Diana Lysenko
 
-**ML in Life Sciences · Bioinformatics · Austria**
+**ML in Life Sciences · Bioinformatics**
 
 I build machine learning pipelines for genomic and transcriptomic data — from raw variant calls to biological insight. My work sits at the intersection of computational biology and applied ML, with a focus on rare disease genetics and musculoskeletal conditions.
 

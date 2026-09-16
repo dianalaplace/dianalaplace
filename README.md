@@ -1,4 +1,4 @@
-# Diana — ML Engineer (Student) · Biotech & Computational Oncology
+# Diana — ML Engineer (Student) · Biotech 
 
 Building ML pipelines that turn public genomic, transcriptomic, and clinical-trial data into interpretable prognostic and predictive models — mostly in oncology and rare musculoskeletal disease.
 

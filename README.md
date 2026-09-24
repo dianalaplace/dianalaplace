@@ -1,4 +1,4 @@
-# Diana Lysenko · ML Engineer · Student · Biotech 
+# Diana Lysenko · ML Engineer · Student
 
 Building ML pipelines that turn public genomic, transcriptomic, and clinical-trial data into interpretable prognostic and predictive models — mostly in oncology and rare musculoskeletal disease.
 

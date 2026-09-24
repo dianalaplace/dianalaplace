@@ -12,9 +12,8 @@
 
 ## Skills
 
-Python, R, scikit-learn, Pandas, NumPy, Scanpy, SHAP, survival analysis (Cox, Random Survival Forests), nested cross-validation, UMAP & clustering, Git, Jupyter, Quarto
-
+Python, PyTorch, R, SQL, Pandas, NumPy, UMAP & clustering, Git, Jupyter.
 ## Research interests
 
-Computational oncology, tumor microenvironment biology, rare-disease genetics, single-cell analysis, biomarker discovery for prognosis and treatment response
+Computational oncology, drug discovery, tumor microenvironment biology, rare-disease genetics, single-cell analysis, biomarker discovery for prognosis and treatment response.
 
